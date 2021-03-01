@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true'>
+    <pages>
+        <page name='Template'/>
+        <page name='Lesson1_BinaryGap'/>
+        <page name='Lesson2_CyclicRotation'/>
+        <page name='Lesson2_OddOccurrencesInArray'/>
+        <page name='Lesson3_FrogJmp'/>
+        <page name='Lesson3_PermMissingElem'/>
+        <page name='Lesson3_TapeEquilibrium'/>
+        <page name='Lesson4_MaxCounters'/>
+        <page name='Lesson4_FrogRiverOne'/>
+        <page name='Lesson4_MissingInteger'/>
+        <page name='Lesson4_PermCheck'/>
+        <page name='Lesson5_CountDiv'/>
+        <page name='Lesson5_GenomicRangeQuery'/>
+        <page name='Lesson5_MinAvgTwoSlice'/>
+    </pages>
+</playground>
