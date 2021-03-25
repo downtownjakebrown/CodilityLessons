@@ -14,6 +14,7 @@
         <page name='Lesson4_PermCheck'/>
         <page name='Lesson5_CountDiv'/>
         <page name='Lesson5_GenomicRangeQuery'/>
-        <page name='Lesson5_MinAvgTwoSlice'/>
+        <page name='Lesson6_Distinct'/>
+        <page name='Lesson6_MaxProductOfThree'/>
     </pages>
 </playground>
